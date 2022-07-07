@@ -1,8 +1,5 @@
-## Fokus - An ABG initiative
+## Created by https://abg.garden
 
-_Growing together!_
-
-Focusing with a fellow human brings greater accountability, improves productivity, and well, is just plain fun!
 
 ## Prerequisites
 
