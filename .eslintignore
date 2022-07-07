@@ -1,0 +1,11 @@
+node_modules/
+.next
+build
+dist
+*.tsbuildinfo
+*.gitignore
+*.svg
+*.lock
+*.npmignore
+postcss.config.js
+tailwind.config.js
